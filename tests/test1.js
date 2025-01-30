@@ -4,7 +4,7 @@ const assert = chai.assert;
 describe('files', function () {
     describe('export', function () {
         it('should export pdf', function () {
-            assert.isTrue(true);
+            assert.isTrue(false);
         });
 
         it('should export html', function () {
